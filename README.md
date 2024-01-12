@@ -1,4 +1,4 @@
-![CutFileDichotomy logo](https://mauricelambert.github.io/info/go/security/CutFileDichotomy_small.gif "CutFileDichotomy logo")
+![CutFileDichotomy logo](https://mauricelambert.github.io/info/go/security/CutFileDichotomy_small.png "CutFileDichotomy logo")
 
 # CutFileDichotomy
 
